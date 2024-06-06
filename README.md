@@ -26,13 +26,13 @@ Nazri Anime.
 
 | Official Domains | Links                                      |
 | ---------------- | ------------------------------------------ |
-| Active              | [anveshna.xyz](https://www.anveshna.xyz)       |
+| Active              | [nazri-anime](https://nazri-anime.vercel.app)       |
 
 </div>
 
-## What is Anveshna. ?
+## What is Nazri Anime. ?
 
-Welcome to **Anveshna.** - your ultimate anime destination! 🤯 Explore **[anveshna.xyz](https://www.anveshna.xyz)** and dive into the world of anime.
+Welcome to **Nazri Anime.** - your ultimate anime destination! 🤯 Explore **[nazri-anime](https://nazri-anime.vercel.app)** and dive into the world of anime.
 
 Crafted with using **React**, our site rocks a slick and modern interface. Experience lightning-fast performance and smooth navigation as you explore a vast collection of HD anime titles.
 
@@ -149,14 +149,14 @@ bun start
 
 ## License 📝
 
-This project is governed by a Custom BY-NC License. What does this entail? Simply put, you are permitted to utilize, distribute, and modify the code for non-commercial purposes. However, it is imperative that due credit is accorded to our platform, [anveshna.xyz](https://www.anveshna.xyz). Any commercial utilization of this code is strictly prohibited. For comprehensive details, please refer to the [LICENSE](LICENSE) file. Should you have inquiries or require special permissions, do not hesitate to contact us.
+This project is governed by a Custom BY-NC License. What does this entail? Simply put, you are permitted to utilize, distribute, and modify the code for non-commercial purposes. However, it is imperative that due credit is accorded to our platform, [nazri-anime](https://nazri-anime.vervel.app). Any commercial utilization of this code is strictly prohibited. For comprehensive details, please refer to the [LICENSE](LICENSE) file. Should you have inquiries or require special permissions, do not hesitate to contact us.
 
 
 ## Get in Touch! 📧
 
-Got questions, suggestions, or just wanna say hi? Drop us a line at <devxoshakya@gmail.com>.
+Got questions, suggestions, or just wanna say hi? Drop us a line at <nazrixddeswara@gmail.com>.
 
-- Visit our website at **[Anveshna.xyz](https://www.anveshna.xyz)**
+- Visit our website at **[nazri-anime](https://nazri-anime.vercel.app)**
 
-- Follow us on **[Twitter](https://twitter.com/devxoshakya)**
+- Follow us on **[Twitter](https://twitter.com/xyraacode)**
 
