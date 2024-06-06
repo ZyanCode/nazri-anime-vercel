@@ -14,11 +14,7 @@ Nazri Anime.
   <a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="https://www.anveshna.xyz" target="_blank">
-    <img src="https://raw.githubusercontent.com/devxoshakya/anveshna/main/src/images/icon.png" alt="Logo" width="200"/>
-  </a>
-</p>
+
 
 
 
